@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.port{
+   height: 90px;
+   background-color: rgb(140, 236, 49);
+   
+}
+.portfolio{
+    text-align: center;
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 80px;
+
+}
