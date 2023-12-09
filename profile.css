@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body{
+    background-color: black;
+}
+.zag{
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 48px;
+    text-align: center;
+}
+
+.php{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+  }
+.php2{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+  }
+  .js{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+  }
+.js2{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.html{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+  }
+.html2{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.css{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+  }
+.css2{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+.react{
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 50px;
+    height: 50px;
+  }
+.react2{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
